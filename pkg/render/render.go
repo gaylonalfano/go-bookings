@@ -8,8 +8,8 @@ import (
 	"net/http"
 	"path/filepath"
 
-	"github.com/gaylonalfano/go-study/basicapp/pkg/config"
-	"github.com/gaylonalfano/go-study/basicapp/pkg/models"
+	"github.com/gaylonalfano/go-bookings/pkg/config"
+	"github.com/gaylonalfano/go-bookings/pkg/models"
 )
 
 // Let's pull in our AppConfig

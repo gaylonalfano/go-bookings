@@ -7,9 +7,9 @@ import (
 	"time"
 
 	"github.com/alexedwards/scs/v2"
-	"github.com/gaylonalfano/go-study/basicapp/pkg/config"
-	"github.com/gaylonalfano/go-study/basicapp/pkg/handler"
-	"github.com/gaylonalfano/go-study/basicapp/pkg/render"
+	"github.com/gaylonalfano/go-bookings/pkg/config"
+	"github.com/gaylonalfano/go-bookings/pkg/handler"
+	"github.com/gaylonalfano/go-bookings/pkg/render"
 )
 
 // NOTE: General project structure template: https://github.com/golang-standards/project-layout

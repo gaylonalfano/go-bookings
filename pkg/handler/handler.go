@@ -3,9 +3,9 @@ package handler
 import (
 	"net/http"
 
-	"github.com/gaylonalfano/go-study/basicapp/pkg/config"
-	"github.com/gaylonalfano/go-study/basicapp/pkg/models"
-	"github.com/gaylonalfano/go-study/basicapp/pkg/render"
+	"github.com/gaylonalfano/go-bookings/pkg/config"
+	"github.com/gaylonalfano/go-bookings/pkg/models"
+	"github.com/gaylonalfano/go-bookings/pkg/render"
 )
 
 // NOTE: Repository pattern in Go: https://www.udemy.com/course/building-modern-web-applications-with-go/learn/lecture/22875035#questions/14813628

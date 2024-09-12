@@ -3,8 +3,8 @@ package main
 import (
 	"net/http"
 
-	"github.com/gaylonalfano/go-study/basicapp/pkg/config"
-	"github.com/gaylonalfano/go-study/basicapp/pkg/handler"
+	"github.com/gaylonalfano/go-bookings/pkg/config"
+	"github.com/gaylonalfano/go-bookings/pkg/handler"
 )
 
 func loadRoutes(app *config.AppConfig) http.Handler {
